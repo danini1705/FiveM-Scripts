@@ -1,5 +1,5 @@
 # fxserver_esx_holdup
-FXserver ESX Hold Up
+FXserver ESX ATM Hold Up
 
 [REQUIREMENTS]
 
@@ -9,12 +9,10 @@ FXserver ESX Hold Up
 
 1) CD in your resources/[esx] folder
 2) Clone the repository
-```
-git clone https://github.com/ESX-Org/esx_holdup esx_holdup
-```
+
 
 3) Add this in your server.cfg :
 
 ```
-start esx_holdup
+start esx_atmholdup
 ```
